@@ -125,7 +125,7 @@ Additionally, the list of approved firmware can be supplemented using
  The remote administration interface can be used to download and deploy firmware
  updates.
 
-## Fuzzing
+## Fuzzing ##
 
 There are several automated fuzzing tests in fwupd. These take some time to run:
 
